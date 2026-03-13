@@ -1,54 +1,63 @@
 body {
-    background-color: #22252e;
+background: #e9d1d1
 }
 
-p {
-    text-align: center;
-    color: white;
+.principal{
+background: #CCCCCC;
+padding: 30px;
 }
 
-#benef {
-    color: white;
-    text-align: center;
-    padding: 20px;
+.itens{
+font-style: italic;
 }
 
-#barbeariaalura {
-    color: aquamarine;
+.beneficios {
+background: #FFFFFF;
+padding: 20px;
 }
 
-.principal {
-    background-color: #171924;
-    padding: 2px;
-    border-radius: 10px;
-}
-
-#tittle {
-    color: white;
-    text-align: center;
-}
-
-.itens {
-    color: white;
-    font-size: 18px;
-    font-style: italic;
-}
-
-#banner {
-    width: 100%;
+h2
+{
+text-align: center;
 }
 
 ul {
-    display: inline-block; /* alinhar pela linha de cima */
-    vertical-align: top; /* alinhar pelo topo */
-    width: 20%; /* largura */
-    margin-left: 5%;
+display: inline-block; /* Alinhar pela linha de cima */
+vertical-align: top; /* Alinhar pelo topo */
+width: 20%; /* largura */
+margin-right: 15%;
 }
 
 img {
-    width: 50%;
+width: 50%;
 }
 
-.imagembeneficios {
-    margin-left: 50%;
+/* comentário */
+
+#banner {
+width: 100%;
+}
+
+h1 {
+text-align: center
+}
+
+p {
+text-align: center;
+}
+
+#missao {
+font-size: 20px
+}
+
+em strong {
+color: #FF0000;
+}
+
+.titulo-principal{
+padding-left: 20px;
+}
+
+.centralizado{
+text-align: center;
 }
