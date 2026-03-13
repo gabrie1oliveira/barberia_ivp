@@ -1,0 +1,54 @@
+body {
+    background-color: #22252e;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+#benef {
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#barbeariaalura {
+    color: aquamarine;
+}
+
+.principal {
+    background-color: #171924;
+    padding: 2px;
+    border-radius: 10px;
+}
+
+#tittle {
+    color: white;
+    text-align: center;
+}
+
+.itens {
+    color: white;
+    font-size: 18px;
+    font-style: italic;
+}
+
+#banner {
+    width: 100%;
+}
+
+ul {
+    display: inline-block; /* alinhar pela linha de cima */
+    vertical-align: top; /* alinhar pelo topo */
+    width: 20%; /* largura */
+    margin-left: 5%;
+}
+
+img {
+    width: 50%;
+}
+
+.imagembeneficios {
+    margin-left: 50%;
+}
